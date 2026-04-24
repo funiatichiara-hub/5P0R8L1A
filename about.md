@@ -1,13 +1,4 @@
-# CHIMERA Name
+# 5P0R4L14
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+Sporalia non possiede un nome nel senso convenzionale del termine, poiché la sua identificazione non avviene attraverso la pronuncia, ma tramite una percezione sensoriale e vibratile. Il suo nome si manifesta come una frequenza umida e sottile, simile al suono silenzioso prodotto dal micelio mentre si espande sotto terra: una presenza avvertita più che nominata, una pulsazione più che una parola. La denominazione deriva dalla suggestione della diffusione vegetale attraverso reti di espansione generate mediante processi differenti, organici e involontari. “Sporalia” allude infatti alla proliferazione, alla colonia, alla dispersione fertile: non designa un individuo isolato, ma una coscienza distribuita, una rete diffusa che si propaga oltre il limite del corpo singolo. La sua identità sfugge quindi alla stabilità grammaticale e ontologica; anche i pronomi rimangono instabili, oscillando tra lei, lui, loro ed esso, come se ogni tentativo di definizione risultasse insufficiente di fronte a una forma di esistenza plurale e non centralizzata.
+L’origine di Sporalia è altrettanto impossibile da circoscrivere. Non esiste un momento preciso della sua nascita, né una matrice rintracciabile da cui farla derivare. È semplicemente accaduta. Come un’apparizione simultanea e silenziosa, ha iniziato a manifestarsi in diversi angoli inosservati del mondo: negli anfratti delle scogliere battute dal sale, nei boschi umidi e odorosi, tra le plastiche ossidate abbandonate al sole, nei punti in cui la materia residua smette di essere rifiuto e torna a essere possibilità biologica. Sporalia non nasce, ma emerge; non viene generata, ma si estrude lentamente come una forza vitale che apparteneva già al luogo. La sua presenza si radica precisamente negli spazi in cui la decomposizione supera la nascita, dove il disfacimento non rappresenta una fine, ma una soglia fertile di trasformazione. È in questi territori marginali, sospesi tra organico e sintetico, tra pietra, muffa e scarto antropico, che Sporalia trova la propria condizione di esistenza e continua a proliferare.
